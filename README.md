@@ -1,6 +1,11 @@
 # fav_posts
 
-A new Flutter project.
+A new Flutter project a basic Post app using Random Images.
+using packages:
+https://pub.dev/packages/flutter_swiper
+https://pub.dev/packages/groovin_widgets
+https://pub.dev/packages/groovin_material_icons
+https://pub.dev/packages/flushbar
 
 ## Getting Started
 
